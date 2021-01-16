@@ -1,0 +1,26 @@
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.genruntimeconfig.cache
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csprojAssemblyReference.cache
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\Downloads\cs8dotnetcore3-master\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.genruntimeconfig.cache
