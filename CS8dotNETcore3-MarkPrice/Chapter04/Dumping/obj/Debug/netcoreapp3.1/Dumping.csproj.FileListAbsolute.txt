@@ -1,0 +1,16 @@
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.exe
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.deps.json
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.json
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.dev.json
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.dll
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.pdb
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\bin\Debug\netcoreapp3.1\SharpPad.dll
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csprojAssemblyReference.cache
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfoInputs.cache
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfo.cs
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CoreCompileInputs.cache
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CopyComplete
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.dll
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.pdb
+C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.genruntimeconfig.cache
