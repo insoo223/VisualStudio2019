@@ -19,19 +19,23 @@ namespace Instrumenting
             Debug.WriteLine("Debug says, 안녕 인수!, I am watching!");
             Trace.WriteLine("Trace says, 你好，仁秀！，I am watching!");
 
+            //구성자(Program configurator) 생성	
             var builder = new ConfigurationBuilder()
               .SetBasePath(Directory.GetCurrentDirectory())
               .AddJsonFile("appsettings.json",
                 optional: true, reloadOnChange: true);
 
             IConfigurationRoot configuration = builder.Build();
-
+            
+            //추적옵션(Trace switch) 생성	
             var ts = new TraceSwitch(
               displayName: "PacktSwitch",
               description: "This switch is set via a JSON config.");
 
+            //구성자와 추적옵션 연결 (Bind configurator with trace switch)
             configuration.GetSection("PacktSwitch").Bind(ts);
 
+            //트레이스 레벨 테스트 문장
             Trace.WriteLineIf(ts.TraceError, "Trace error");
             Trace.WriteLineIf(ts.TraceWarning, "Trace warning");
             Trace.WriteLineIf(ts.TraceInfo, "Trace information");
