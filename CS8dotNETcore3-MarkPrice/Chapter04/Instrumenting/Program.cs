@@ -37,6 +37,10 @@ namespace Instrumenting
             Trace.WriteLineIf(ts.TraceInfo, "Trace information");
             Trace.WriteLineIf(ts.TraceVerbose, "Trace verbose");
         }//Main
+        
+        //sub2 function is a code snippet container added by Insoo (Mon Jan 18, 2021)
+        //As to follow the text book, you need to modity the Main ft, 
+        //and this snippet container make it easy to copy and paste along with your trial.
         public void sub2()
         {
             /*
