@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7h2LaYiU9FxyVG4I9vCGa0ptgAeFHgCdU6asmLgpCgjwqfcbFouq89ned83/yHwB9ezxD/gCw4Mj8XgR/+NsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\insoo\\OneDrive - 팀솔루션\\InsooDocs\\GitHub\\VisualStudio2019\\CS8dotNETcore3-MarkPrice\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\insoo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\insoo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
