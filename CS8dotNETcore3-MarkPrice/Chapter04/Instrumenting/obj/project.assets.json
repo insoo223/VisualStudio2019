@@ -343,19 +343,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\insoo\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\insoo\\OneDrive - 팀솔루션\\InsooDocs\\GitHub\\VisualStudio2019\\CS8dotNETcore3-MarkPrice\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+      "projectUniqueName": "C:\\LocalData\\GitHub\\VisualStudio2019\\CS8dotNETcore3-MarkPrice\\Chapter04\\Instrumenting\\Instrumenting.csproj",
       "projectName": "Instrumenting",
-      "projectPath": "C:\\Users\\insoo\\OneDrive - 팀솔루션\\InsooDocs\\GitHub\\VisualStudio2019\\CS8dotNETcore3-MarkPrice\\Chapter04\\Instrumenting\\Instrumenting.csproj",
-      "packagesPath": "C:\\Users\\insoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\insoo\\OneDrive - 팀솔루션\\InsooDocs\\GitHub\\VisualStudio2019\\CS8dotNETcore3-MarkPrice\\Chapter04\\Instrumenting\\obj\\",
+      "projectPath": "C:\\LocalData\\GitHub\\VisualStudio2019\\CS8dotNETcore3-MarkPrice\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\LocalData\\GitHub\\VisualStudio2019\\CS8dotNETcore3-MarkPrice\\Chapter04\\Instrumenting\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\insoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

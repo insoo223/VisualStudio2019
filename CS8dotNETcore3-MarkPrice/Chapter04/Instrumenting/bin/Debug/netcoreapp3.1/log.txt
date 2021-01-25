@@ -1,2 +1,2 @@
-Debug says, I am watching!
-Trace says, I am watching!
+Debug says, 안녕 인수!, I am watching!
+Trace says, 你好，仁秀！，I am watching!

@@ -22,3 +22,27 @@ C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotN
 C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.pdb
 C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.genruntimeconfig.cache
 C:\Users\insoo\OneDrive - 팀솔루션\InsooDocs\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.exe
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.deps.json
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.json
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.dev.json
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.pdb
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csprojAssemblyReference.cache
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfoInputs.cache
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfo.cs
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csproj.CoreCompileInputs.cache
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csproj.CopyComplete
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.dll
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.pdb
+C:\LocalData\GitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.genruntimeconfig.cache

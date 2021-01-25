@@ -1,2 +1,5 @@
-Trace says, I am watching!
+Trace says, 你好，仁秀！，I am watching!
 Trace error
+Trace warning
+Trace information
+Trace verbose
