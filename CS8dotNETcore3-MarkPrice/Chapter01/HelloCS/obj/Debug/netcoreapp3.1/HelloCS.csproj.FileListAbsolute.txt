@@ -11,3 +11,17 @@ C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter01\HelloCS\obj\Debug\netco
 C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
 C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
 C:\Users\Admin\Downloads\cs8dotnetcore3-master\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.AssemblyReference.cache
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\insoo\Box\xcGitHub\VisualStudio2019\CS8dotNETcore3-MarkPrice\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache
