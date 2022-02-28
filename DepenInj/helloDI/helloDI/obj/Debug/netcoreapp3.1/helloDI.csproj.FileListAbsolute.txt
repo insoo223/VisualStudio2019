@@ -1,0 +1,13 @@
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\bin\Debug\netcoreapp3.1\helloDI.exe
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\bin\Debug\netcoreapp3.1\helloDI.deps.json
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\bin\Debug\netcoreapp3.1\helloDI.runtimeconfig.json
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\bin\Debug\netcoreapp3.1\helloDI.runtimeconfig.dev.json
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\bin\Debug\netcoreapp3.1\helloDI.dll
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\bin\Debug\netcoreapp3.1\helloDI.pdb
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\obj\Debug\netcoreapp3.1\helloDI.csprojAssemblyReference.cache
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\obj\Debug\netcoreapp3.1\helloDI.AssemblyInfoInputs.cache
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\obj\Debug\netcoreapp3.1\helloDI.AssemblyInfo.cs
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\obj\Debug\netcoreapp3.1\helloDI.csproj.CoreCompileInputs.cache
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\obj\Debug\netcoreapp3.1\helloDI.dll
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\obj\Debug\netcoreapp3.1\helloDI.pdb
+C:\LocalData\GitHub\VisualStudio2019\DepenInj\helloDI\helloDI\obj\Debug\netcoreapp3.1\helloDI.genruntimeconfig.cache
